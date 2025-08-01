@@ -1,0 +1,122 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "code": "BO-0001",
+      "name": "Dế mèn phiêu lưu ký",
+      "importDate": "2025-07-20",
+      "quantity": 10,
+      "category": {
+        "id": 1,
+        "code": "MS-0001",
+        "name": "Tiểu thuyết",
+        "description": "Tiểu thuyết chỉ là hư vô"
+      }
+    },
+    {
+      "id": 2,
+      "code": "BO-0002",
+      "name": "Dế mèn phiêu lưu ký phần 2",
+      "importDate": "2025-07-25",
+      "quantity": 9,
+      "category": {
+        "id": 1,
+        "code": "MS-0001",
+        "name": "Tiểu thuyết",
+        "description": "Tiểu thuyết chỉ là hư vô"
+      }
+    },
+    {
+      "id": 3,
+      "code": "BO-0003",
+      "name": "Conan Thám tử lừng danh",
+      "importDate": "2025-07-20",
+      "quantity": 8,
+      "category": {
+        "id": 2,
+        "code": "MS-0002",
+        "name": "Truyện tranh",
+        "description": "Chỉ là ảo ảnh"
+      }
+    },
+    {
+      "code": "BO-0004",
+      "name": "Truyện Ma Thái",
+      "importDate": "2025-08-09",
+      "quantity": 7,
+      "category": {
+        "id": 1,
+        "code": "MS-0001",
+        "name": "Tiểu thuyết",
+        "description": "Tiểu thuyết chỉ là hư vô"
+      },
+      "id": 4
+    },
+    {
+      "code": "BO-0005",
+      "name": "Truyện Ma Thái 2",
+      "importDate": "2025-07-31",
+      "quantity": 1,
+      "category": {
+        "id": 2,
+        "code": "MS-0002",
+        "name": "Truyện tranh",
+        "description": "Chỉ là ảo ảnh"
+      },
+      "id": 5
+    },
+    {
+      "code": "BO-0006",
+      "name": "Cô bé quàng khăn đỏ",
+      "importDate": "2025-08-01",
+      "quantity": 5,
+      "category": {
+        "id": 2,
+        "code": "MS-0002",
+        "name": "Truyện tranh",
+        "description": "Chỉ là ảo ảnh"
+      },
+      "id": 6
+    },
+    {
+      "code": "BO-0008",
+      "name": "ghfhdfhfghfg",
+      "importDate": "2025-07-14",
+      "quantity": 5.1,
+      "category": {
+        "id": 1,
+        "code": "MS-0001",
+        "name": "Tiểu thuyết",
+        "description": "Tiểu thuyết chỉ là hư vô"
+      },
+      "id": 7
+    },
+    {
+      "code": "BO-7777",
+      "name": "đaawdawdwadawdad",
+      "importDate": "2025-07-31",
+      "quantity": 10,
+      "category": {
+        "id": 1,
+        "code": "MS-0001",
+        "name": "Tiểu thuyết",
+        "description": "Tiểu thuyết chỉ là hư vô"
+      },
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "code": "MS-0001",
+      "name": "Tiểu thuyết",
+      "description": "Tiểu thuyết chỉ là hư vô"
+    },
+    {
+      "id": 2,
+      "code": "MS-0002",
+      "name": "Truyện tranh",
+      "description": "Chỉ là ảo ảnh"
+    }
+  ]
+}
